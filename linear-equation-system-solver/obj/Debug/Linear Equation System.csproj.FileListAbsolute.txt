@@ -1,0 +1,7 @@
+C:\Users\Chitsungo\Desktop\linear-equation-system-solver_uniproject-master\bin\Debug\Linear Equation System.exe.config
+C:\Users\Chitsungo\Desktop\linear-equation-system-solver_uniproject-master\bin\Debug\Linear Equation System.exe
+C:\Users\Chitsungo\Desktop\linear-equation-system-solver_uniproject-master\bin\Debug\Linear Equation System.pdb
+C:\Users\Chitsungo\Desktop\linear-equation-system-solver_uniproject-master\obj\Debug\Linear Equation System.csprojAssemblyReference.cache
+C:\Users\Chitsungo\Desktop\linear-equation-system-solver_uniproject-master\obj\Debug\Linear Equation System.csproj.CoreCompileInputs.cache
+C:\Users\Chitsungo\Desktop\linear-equation-system-solver_uniproject-master\obj\Debug\Linear Equation System.exe
+C:\Users\Chitsungo\Desktop\linear-equation-system-solver_uniproject-master\obj\Debug\Linear Equation System.pdb
